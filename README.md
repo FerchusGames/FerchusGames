@@ -46,14 +46,11 @@ Welcome to my GitHub profile! I'm dedicated to crafting immersive and captivatin
 
 [skill-icons]: https://github.com/tandpfun/skill-icons
 
+---
 
 ### 📚 My Work
 
 For a closer look at my projects and what I've been up to, visit my website: [ferchus.com](http://ferchus.com)
-
-### 📫 Get in Touch!
-
-Feel free to reach out for collaborations or just a chat about game development. I'm always open to discussing new ideas and opportunities in the gaming world.
 
 ---
 
