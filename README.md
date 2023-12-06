@@ -46,8 +46,6 @@ Welcome to my GitHub profile! I'm dedicated to crafting immersive and captivatin
 
 [skill-icons]: https://github.com/tandpfun/skill-icons
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FerchusGames&layout=compact&theme=transparent)
-
 ---
 
 ### 📚 My Work
