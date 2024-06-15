@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm dedicated to crafting immersive and captivatin
 [![Premiere Pro](https://skillicons.dev/icons?i=pr)][skill-icons]
 
 ### Frameworks and Libraries
-[![Fishnet](https://raw.githubusercontent.com/FerchusGames/custom-skill-icons/main/fishnet.png)[skill-icons]]
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)][skill-icons]
 [![Flutter](https://skillicons.dev/icons?i=flutter)][skill-icons]
 
