@@ -1,14 +1,8 @@
 # 👋 Hi, I'm Ferchus!
 
-## 🎮 Aspiring Game Director
+## 🎮 Technical Artist @ Roboto Games
 
-Welcome to my GitHub profile! I'm dedicated to crafting immersive and captivating interactive experiences. With a deep passion for game development, I'm always exploring new ways to push the boundaries of interactive entertainment.
-
-### 🌟 About Me
-
-- 🛠️ **What I Do:** I'm focused on honing my expertise across all aspects of game development, from game design to programming and beyond.
-- 💡 **My Passion:** I love creating games that offer unique and engaging experiences to players.
-- 🎯 **Goal:** To become a renowned game director, known for innovative and thought-provoking games.
+Welcome to my GitHub profile! I'm currently working on [Stormforge](https://www.playstormforge.com/) as a Technical Artist, so I haven't been very active here recently.
 
 ## 💻 Skills and Tools
 
